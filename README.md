@@ -1,5 +1,5 @@
 Let’s build something solid. Not toy-level.
-We’ll create a real Excel Toolkit script that looks portfolio-worthy on GitHub 💼📊
+I will help you to create a real Excel Toolkit script that looks portfolio-worthy 💼📊
 
 This tool will:
 
